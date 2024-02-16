@@ -1,3 +1,14 @@
+# Eat-N_split
+
+Eat-n-Split: A user-friendly app facilitating bill splitting among friends. Easily add friends, split bills effortlessly, and track who owes whom, streamlining group expenses.
+
+## Features
+
+Intuitive bill splitting functionality
+Seamless friend management for easy collaboration
+Real-time debt tracking to keep finances transparent
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
